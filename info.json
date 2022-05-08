@@ -1,0 +1,11 @@
+{
+    "name": "se-bot-start",
+    "version": "1.0",
+    "factorio_version": "1.1",
+    "dependencies": [ "base >= 1.1", "space-exploration >= 0.5" ],
+    "title": "SE Bot Start",
+    "author": "OrchidAlloy",
+    "contact": "samruxb@gmail.com",
+    "homepage": "",
+    "description": "Start with pre-space equipment and construction bots, as well as basic robot speed research unlocked (absolute necessity).\nThe objective of this mod, in contrast to other mods that don't take into account Space Exploration, is making it so that it actually feels like an accomplishment when you reach the spacesuit, the mk2 equipments locked behind space science, and the portable fusion reactor which in SE is very late-game."
+}
